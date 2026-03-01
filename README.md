@@ -37,7 +37,7 @@ SpotEdit 不仅仅是一个简单的 Prompt 修改工具，它通过以下两个
 3.  **安装依赖**
     进入插件目录并安装所需的 Python 依赖库：
     ```bash
-    cd ComfyUI-SpotEdit
+    cd ComfyUI-SpotEdit-Dev
     pip install -r requirements.txt
     ```
     *主要依赖为 `einops` 用于张量重排。*
@@ -129,4 +129,5 @@ SpotEdit 不仅仅是一个简单的 Prompt 修改工具，它通过以下两个
 ## 引用
 
 > SpotEdit: Selective Region Editing in Diffusion Transformers (arXiv:2512.22323)
+
 

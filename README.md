@@ -31,7 +31,7 @@ SpotEdit 不仅仅是一个简单的 Prompt 修改工具，它通过以下两个
 
 2.  **克隆仓库**
     ```bash
-    git clone https://github.com/your-username/ComfyUI-SpotEdit.git
+    git clone https://github.com/llldmxy99/ComfyUI-SpotEdit-Dev.git
     ```
 
 3.  **安装依赖**
@@ -129,3 +129,4 @@ SpotEdit 不仅仅是一个简单的 Prompt 修改工具，它通过以下两个
 ## 引用
 
 > SpotEdit: Selective Region Editing in Diffusion Transformers (arXiv:2512.22323)
+
